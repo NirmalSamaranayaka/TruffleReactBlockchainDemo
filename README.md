@@ -37,12 +37,14 @@ TruffleReactDemo/
 ├── build/                      # Compiled contract artifacts
 ├── scripts/                    # Custom scripts for deploying contracts
 ├── truffle-config.js           # Truffle configuration
-frontend/
-├── src/
-│   ├── App.js                  # React main component
-│   ├── contracts/              # Compiled contract JSON files
-│   └── App.css                 # Styling
-package.json                     # Project dependencies
+├── frontend/
+│   ├── src/
+│   │   ├── App.js              # React main component
+│   │   ├── contracts/          # Compiled contract JSON files
+│   │   └── App.css             # Styling
+├── package.json                # Project dependencies
+└── README.md                   # Project documentation
+
 
 ---
 ## ⚡ Getting Started
