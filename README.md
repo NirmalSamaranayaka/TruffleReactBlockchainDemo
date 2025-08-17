@@ -25,7 +25,7 @@ Welcome to **SimpleStorage DApp**, a decentralized application (DApp) built usin
 ---
 
 ## 📂 Project Structure
-
+```
 TruffleReactDemo/
 ├── contracts/                  # Solidity smart contracts
 │   ├── SimpleStorage.sol
@@ -44,7 +44,7 @@ TruffleReactDemo/
 │   │   └── App.css             # Styling
 ├── package.json                # Project dependencies
 └── README.md                   # Project documentation
-
+```
 
 ---
 ## ⚡ Getting Started
