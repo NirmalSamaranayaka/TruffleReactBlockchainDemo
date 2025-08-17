@@ -1,0 +1,15 @@
+{
+  "name": "TruffleReactBlockchainDemo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install-all": "npm install && cd frontend && npm install",
+    "compile-contracts": "truffle compile",
+    "migrate-contracts": "truffle migrate --reset --network development",
+    "start-frontend": "cd frontend && npm start",
+    "deploy-and-start": "npm run install-all && npm run compile-contracts && npm run migrate-contracts && npm run start-frontend"
+  },
+  "dependencies": {
+    "truffle": "^5.8.0"
+  }
+}

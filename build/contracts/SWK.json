@@ -1,0 +1,79 @@
+{
+  "contractName": "SWK",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/SWK.sol\":\"SWK\"},\"evmVersion\":\"shanghai\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/SWK.sol\":{\"keccak256\":\"0xa25c24f68cc559312ff2a30cdeead2c8d75ef31d3ce32371b42f725db5b69eaa\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c19f53fcc36da7a1cef49621b066628aae46590e013d94e1ccdea9e53fa2f477\",\"dweb:/ipfs/QmfCUjiaTcyPB8LMVUnhCENgBYroRZ7Y9K7hCnikoLmfF9\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600e575f80fd5b50603e80601a5f395ff3fe60806040525f80fdfea26469706673582212204df94d79ac4b47e30ed47a08a3beed7cf087fa2e94c3db9cda02557ba65148fd64736f6c63430008150033",
+  "deployedBytecode": "0x60806040525f80fdfea26469706673582212204df94d79ac4b47e30ed47a08a3beed7cf087fa2e94c3db9cda02557ba65148fd64736f6c63430008150033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "65:15:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "65:15:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity >=0.5.0 <0.9.0;\n\ncontract SWK {}",
+  "sourcePath": "/Users/nirmalsamaranayaka/Projects/TruffleDemo/contracts/SWK.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/SWK.sol",
+    "exportedSymbols": {
+      "SWK": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".0",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:31:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "SWK",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "SWK",
+        "nameLocation": "74:3:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "65:15:0",
+        "usedErrors": [],
+        "usedEvents": []
+      }
+    ],
+    "src": "32:48:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.21+commit.d9974bed.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.16",
+  "updatedAt": "2025-08-17T18:44:33.130Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
