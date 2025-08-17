@@ -189,4 +189,5 @@ Will compile contracts, deploy to Ganache, and start the frontend automatically.
    * Delete `node_modules` and `package-lock.json` and reinstall if issues persist.
 
 ---
-![alt text](image.png)
+<img width="3584" height="1922" alt="image" src="https://github.com/user-attachments/assets/a18c5ba1-cc68-4462-af9c-7d191277941b" />
+
